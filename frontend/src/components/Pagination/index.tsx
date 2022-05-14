@@ -20,7 +20,7 @@ function Pagination({page, onChange}: Props) {
                     <Arrow className="dsmovie-flip-horizontal" />
                 </button>
             </div>
-        </div>
+        </div>.
     );
 }
 
